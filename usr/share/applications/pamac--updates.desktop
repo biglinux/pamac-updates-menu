@@ -71,4 +71,3 @@ Categories=Settings;
 StartupNotify=true
 X-GNOME-UsesNotifications=true
 StartupWMClass=pamac-manager
-DBusActivatable=true
