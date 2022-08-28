@@ -8,6 +8,8 @@ license=('GPL')
 url="https://github.com/biglinux/pamac-updates-menu"
 pkgdesc="Add in system menu entry to update system"
 depends=('pamac-gtk')
+source=("git+https://github.com/biglinux/pamac-updates-menu.git")
+md5sums=(SKIP)
 
 package() {
     # Verify default folder
